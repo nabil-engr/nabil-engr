@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi 👋, I'm Maruf Nabil
 
-<!--
-**nabil-engr/nabil-engr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Intern | ASP.NET Core | Angular | PostgreSQL
 
-Here are some ideas to get you started:
+I'm passionate about building modern web applications using ASP.NET Core and Angular.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Project
+
+### ShebaPath
+
+Bangladesh Government Service Guide Platform
+
+Tech Stack:
+
+- ASP.NET Core 8
+- Angular
+- PostgreSQL
+- JWT Authentication
+- REST API
+
+---
+
+## 💻 Tech Stack
+
+### Backend
+
+- ASP.NET Core
+- C#
+- Entity Framework Core
+- REST API
+- JWT Authentication
+
+### Frontend
+
+- Angular
+- Typescript
+- JavaScript
+- HTML5
+- CSS3
+- Bootstrap
+
+### Database
+
+- PostgreSQL
+- SQL
+
+### Tools
+
+- Git
+- GitHub
+- Visual Studio
+- VS Code
+- Postman
+- pgAdmin
+- swagger
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/nabil-engr/
+- email: nabilmaruf1122@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building real-world projects and continuously learning new technologies.
